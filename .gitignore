@@ -1,0 +1,42 @@
+# Geral
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# Configurações e pacotes
+.nuget/
+packages/
+.vscode/
+
+# Logs e arquivos temporários
+*.log
+logs/
+dump/
+
+# Configurações do sistema
+Thumbs.db
+Desktop.ini
+
+# Configuração específica do .NET
+project.lock.json
+project.assets.json
+
+# Configuração do IDE
+.idea/
+*.iml
+
+# Certificados de desenvolvimento
+*.pfx
+*.p12
+
+# Docker
+**/[Dd]ockerfile
+**/[Dd]ocker-compose*
+
+# Configurações do Rider
+.idea/
+*.sln.iml
