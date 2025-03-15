@@ -2,6 +2,17 @@ using ProvaTecnica.Dominio.Entidades;
 using ProvaTecnica.Dominio.Models;
 var builder = WebApplication.CreateBuilder(args);
 
+// Adiciona o Cors
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()   // Permite qualquer origem fazer a requisição na minha API
+              .AllowAnyMethod()   // Permite qualquer método fazer a requisição como GET, POST, PUT, DELETE
+              .AllowAnyHeader();  // Permite qualquer cabeçalho 
+    });
+});
+
 
 // Adiciona o Swagger
 builder.Services.AddEndpointsApiExplorer();
