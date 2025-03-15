@@ -29,6 +29,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+//Faz o uso do CORS
+app.UseCors("AllowAll");
 
 
 #region Variaveis Globais
