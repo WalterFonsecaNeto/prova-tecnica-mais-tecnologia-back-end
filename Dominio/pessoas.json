@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Walter Fonseca Neto",
+    "Email": "walter@gmail.com",
+    "DataNascimento": "2006-06-16",
+    "Telefone": "(01) 00000-0000",
+    "Endereco": "Avenida São José, 705, Centro, Alfenas, MG"
+  },
+  {
+    "Id": 2,
+    "Nome": "João Paulo Martelli",
+    "Email": "joao@gmail.com",
+    "DataNascimento": "2006-03-31",
+    "Telefone": "(11) 11111-1111",
+    "Endereco": ""
+  },
+  {
+    "Id": 3,
+    "Nome": "Guilherme Barbosa",
+    "Email": "guilherme@gmail.com",
+    "DataNascimento": "2006-03-31",
+    "Telefone": "(21) 22222-2222",
+    "Endereco": ""
+  },
+  {
+    "Id": 4,
+    "Nome": "Gabriel Alexandre Pereira Pinto",
+    "Email": "gabriel@gmail.com",
+    "DataNascimento": "2004-05-03",
+    "Telefone": "(31) 33333-3333",
+    "Endereco": ""
+  },
+  {
+    "Id": 5,
+    "Nome": "Alex Santos",
+    "Email": "alex@gmail.com",
+    "DataNascimento": "2006-03-31",
+    "Telefone": "(41) 44444-4444",
+    "Endereco": ""
+  },
+  {
+    "Id": 6,
+    "Nome": "Romeu Comastri",
+    "Email": "romeu@gmail.com",
+    "DataNascimento": "2006-03-31",
+    "Telefone": "(51) 55555-5555",
+    "Endereco": ""
+  },
+  {
+    "Id": 7,
+    "Nome": "Felipe Pocchini",
+    "Email": "felipe@gmail.com",
+    "DataNascimento": "2006-03-31",
+    "Telefone": "(61) 66666-6666",
+    "Endereco": ""
+  },
+  {
+    "Id": 8,
+    "Nome": "Estefany Campos Pereira",
+    "Email": "estefany",
+    "DataNascimento": "2006-03-31",
+    "Telefone": "(71) 77777-7777",
+    "Endereco": "Praça Getulio vargas, 120, Centro, Alfenas, MG"
+  },
+  {
+    "Id": 9,
+    "Nome": "Otavio Nogueira Da Mota",
+    "Email": "otavio@gmail.com",
+    "DataNascimento": "2005-10-28",
+    "Telefone": "(81) 88888-8888",
+    "Endereco": ""
+  },
+  {
+    "Id": 10,
+    "Nome": "",
+    "Email": "",
+    "DataNascimento": "2006-03-31",
+    "Telefone": "(91) 99999-9999",
+    "Endereco": ""
+  }
+]
