@@ -40,3 +40,4 @@ project.assets.json
 # Configurações do Rider
 .idea/
 *.sln.iml
+Info.doc
